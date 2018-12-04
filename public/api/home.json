@@ -1,0 +1,85 @@
+{
+  "success": "true",
+  "data": {
+    "topicList": [{
+      "id": "1",
+      "title": "社会热点",
+      "imgUrl": "https://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },{
+      "id": "2",
+      "title": "社会热点",
+      "imgUrl": "https://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },{
+      "id": "3",
+      "title": "社会热点",
+      "imgUrl": "https://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },{
+      "id": "4",
+      "title": "社会热点",
+      "imgUrl": "https://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    }],
+    "articleList": [{
+      "id": 1,
+      "title": "男女之间有了这些“表现”，关系就不会再“纯洁”了",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/5135554-5f52849fcbbc2dab?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp",
+      "desc": "男女之间，很容易产生不一样的感情，虽说一开始都是以正常的身份去对待的，但时间久了，情就会慢慢地升华，两个人异性好朋友之间..."
+    },{
+      "id": 2,
+      "title": "男女之间有了这些“表现”，关系就不会再“纯洁”了",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/5135554-5f52849fcbbc2dab?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp",
+      "desc": "男女之间，很容易产生不一样的感情，虽说一开始都是以正常的身份去对待的，但时间久了，情就会慢慢地升华，两个人异性好朋友之间..."
+    },{
+      "id": 3,
+      "title": "男女之间有了这些“表现”，关系就不会再“纯洁”了",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/5135554-5f52849fcbbc2dab?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp",
+      "desc": "男女之间，很容易产生不一样的感情，虽说一开始都是以正常的身份去对待的，但时间久了，情就会慢慢地升华，两个人异性好朋友之间..."
+    },{
+      "id": 4,
+      "title": "男女之间有了这些“表现”，关系就不会再“纯洁”了",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/5135554-5f52849fcbbc2dab?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp",
+      "desc": "男女之间，很容易产生不一样的感情，虽说一开始都是以正常的身份去对待的，但时间久了，情就会慢慢地升华，两个人异性好朋友之间..."
+    }],
+    "recommendList": [{
+      "id": 1,
+      "imgUrl": "http://localhost:3000/static/img/banner-1.png"
+    },{
+      "id": 2,
+      "imgUrl": "http://localhost:3000/static/img/banner-2.png"
+    },{
+      "id": 3,
+      "imgUrl": "http://localhost:3000/static/img/banner-3.png"
+    },{
+      "id": 4,
+      "imgUrl": "http://localhost:3000/static/img/banner-4.png"
+    },{
+      "id": 5,
+      "imgUrl": "http://localhost:3000/static/img/banner-5.png"
+    }],
+    "writerList": [{
+      "id": 1,
+      "name": "齐天大圣",
+      "avatarUrl": "https://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "desc": "俺老孙来也"
+    },{
+      "id": 2,
+      "name": "赵云",
+      "avatarUrl": "https://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "desc": "无奈常山赵子龙"
+    },{
+      "id": 3,
+      "name": "吕布",
+      "avatarUrl": "https://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "desc": "吕布奉先"
+    },{
+      "id": 4,
+      "name": "猪八戒",
+      "avatarUrl": "https://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "desc": "高老庄是我家"
+    },{
+      "id": 5,
+      "name": "唐僧",
+      "avatarUrl": "https://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "desc": "阿弥陀佛"
+    }]
+  }
+}
